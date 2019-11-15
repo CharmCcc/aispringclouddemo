@@ -4,7 +4,7 @@
 
 后台管理系统：针对管理员，管理员登录、管理员退出、添加菜品、查询菜品、修改菜品、删除菜品、订单处理、添加用户、查询用户、删除用户。
 
-![1](/Users/southwind/我的文件/商务合作/ai/项目实战/笔记/images/1.png)
+![1](../src/main/resources/images/model.png)
 
 account 提供账户服务：用户和管理的登录退出。
 
@@ -18,7 +18,7 @@ user 提供用户服务：添加用户、查询用户、删除用户。
 
 四个服务提供者和一个服务消费者都需要在注册中心进行注册，同时可以使用配置中心来对配置文件进行统一集中管理。
 
-![2](/Users/southwind/我的文件/商务合作/ai/项目实战/笔记/images/2.png)
+![2](../src/main/resources/images/model.png)
 
 - 创建父工程，pom.xml
 
